@@ -1,0 +1,147 @@
+Data:
+Facts or pieces of information that can be measured.
+
+Statistics:
+Statistics is a science of collecting, organizing and analysing the data.
+We are doing this for better decision making.
+
+Types:
+Descriptive -- it consist of organazing and summarizing data.
+Inferancial -- this is technique we use the data to form the conclusion.
+
+Sampling Techniques:
+Simple random
+Stratified
+Systematic
+Convenience/voluntary responsible
+
+Variable:
+Variable is a property that can be take on any value.
+
+Types:
+Quantitative -- measured numerically
+Qualitavive / categorical -- measure based on some characteristics
+
+Quantitative:
+Discrete -- whole number
+Continuous -- (decimal kind)
+
+Variable measurement scales:
+Nominal -- categorical data
+ordinal -- order of data matters, not value
+Interval -- order of data matters, value also matters
+Ratio --
+
+Frequency distribution -- like count of each
+Cumulative frequency -- like overall count at the end
+
+Histogram:
+BIN is always "10"
+PDF(Probablity Density Function):
+Smoothening of histograms(kernal density estimator)
+
+
+Arithmetic mean for population(N) and sample(n):
+
+Central Tendency: refers to the measure used to determine the center of the distribution of the date.
+mean -- average
+median -- works will with outliers
+mode -- most frequent element
+
+Measure of dispersion(speed):
+Variance -- population V and sample V
+Standard Deviation
+
+Percentiles and Quartiles(first step to find outliers):
+Per- a percentile is a value below which a certain percentage of obervation lie.
+
+Five number summary:
+minimum
+first quartile
+median
+third quartile
+maxiumum
+
+Removing outliers:
+
+(lower fence--higher fence)
+LF-Q1-1.5(IQR)
+HF-Q3+1.5(IQR)
+IQR-InterQuartile Range -- Q3-Q1
+
+Basel correction/degree of freedom:
+
+Distribution:
+Gaussian/normal -- there is a match between right and left side
+{Emperical formula-- 68-95-99.7%}
+
+Z-Score:
+Find out std.devi away from the mean.
+Helps to find area of the body curve.
+Jail and body
+Apply z-score on data set gives some value, this is called as standard normal distribution --- (Standardization,Normalization)
+
+No...ion--minmax scaler
+
+
+Probability:
+Is a measure of a likelyhood of an event.
+
+Additinal rule:(probability or)
+
+Mutual exclusive event -- two events are mutually exclusive if the cannot occur at a same time.
+p(a or b)=p(a)+a(b)
+Non mutual exclusive event -- myltiple events occurs at a same time.
+p(a or b)=p(a)+a(b)-p(a&b)
+
+Multiplication rule: used in NAIVE BAYE'S(conditional probabality)
+Independent events --each and every events are independent
+p(a and b)=p(a)*a(b)
+Dependent events --
+p(a and b)=p(a)*a(b/a)
+
+Permutation:
+Combination:
+
+P-value:
+Hypothesis testing:
+null hypo,alternate hypo,experiment,reject or accept null hypo
+using significant value(alpha)
+confidence interval, ci and alpha--opposite
+
+Type-1,type-2 error:
+One tailed and two tailed test:
+
+CI:
+Point estimate:
+The value of any statistics thtat estimates the value of parameter.
+
+t-test:
+If population std.dev is not given we can use t-test.
+
+p-test:
+
+Chi square test:
+claims about population proportions.
+non parametric test that is performed on categarical (nominal or ordinal data).
+
+Covariance:
+
+Pearson correlation co-efficient: for linear
+The more towards +1 more postively correlation, The more towards -1 more negatively correlation
+Spearman's correlation: for non linear
+
+Log nominal distribution:
+Bernoulis distribution:(single try distribution)  -- pmf
+2 outcomes-- 0 or 1 find p and q p,q=1-p
+
+Binomial distribution:(n,p)
+Every -- bernouli dist. (multiple)
+
+Pareto distribution:(power law dist)
+
+Poisson distribution:
+
+Central limit theorem:
+
+Transformation:
