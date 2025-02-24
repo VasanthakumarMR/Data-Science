@@ -1,0 +1,11 @@
+python
+p libs
+sql
+excel
+power bi
+git jenkins
+aws
+ml
+dl
+nlp
+docker k8s
